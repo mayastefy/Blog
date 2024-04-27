@@ -1,0 +1,104 @@
+.menu{
+    margin-left: 100px;
+    margin-top:200px ;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    font-weight: 300;
+}
+.menu:hover{
+    color: blue;
+    font-weight: 500;
+}
+.title{
+    margin-left:600px;
+    width: 800px;
+    color:brown;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:50px;
+    display:block;
+}
+.undertitle{
+    color:rgb(98, 107, 186);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:20px;
+    margin-bottom:40px;
+    display: inline-block;
+    margin-left:600px;
+}
+.subtitlu{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blueviolet;
+    width:700px;
+    margin-left: 600px;
+
+}
+.text{
+    width:1000px;
+    display:block;
+    margin: 50px auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.img{
+    width:1000px;
+    display:block;
+    margin: 0 auto;
+    margin-top:150px;
+    margin-bottom:200px;
+}
+header{
+    position: sticky;
+    top:0;
+    background-color:rgb(201, 136, 146);
+
+}
+.subscribe{
+    width: 100px;
+    padding: 5px;
+}
+.subscribe input{
+    width: 200px;
+    padding: 5px;
+}
+
+.subscribe button{
+    background-color:hotpink;
+    border:2px;
+    padding: 5px 10px;
+    color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.subscribe button:hover{
+    color:black;
+}
+
+.review{
+    margin-top:50px;
+    border:1px solid black;
+    padding:20px;
+}
+
+.rating{
+    font-size:24px;
+    margin-bottom:10px;
+}
+
+.star{
+    color:orange;
+}
+
+.textmedia{
+   font-size:20px;
+   border:3px;
+   margin-left:100px;
+   margin-right:800px;
+   color:blue;
+
+}
+
+.textmedia:hover {
+   color:black;
+}
